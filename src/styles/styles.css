@@ -1,0 +1,20 @@
+.dashboard table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .dashboard table, th, td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
+  form input {
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 5px 10px;
+  }
+  
